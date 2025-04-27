@@ -37,4 +37,4 @@ terminal = 5 ros2 bag info rosbag2_2025_04_24-23_59_50
  ros2 bag play rosbag2_2025_04_24-23_59_50
  for see record
 
-plug in for greeting in diffrant language
+plug in = for greeting in diffrant language
